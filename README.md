@@ -88,3 +88,11 @@ Check out the included `DemoVid.mp4` file in the root of the project to see a qu
 - **Service Layer (`edu.univ.erp.service`)**: Holds business logic and communicates between the UI and Data Access Objects (DAOs).
 - **Data Access Layer (`edu.univ.erp.data`)**: Manages the direct database interactions using JDBC. Uses HikariCP for connection pooling (`DbPool.java`).
 - **Domain/Models (`edu.univ.erp.domain`)**: Plain Old Java Objects (POJOs) representing domain entities like `Course`, `Student`, `Instructor`, `Enrollment`, etc.
+
+## 👥 Group Details
+
+### Members:
+
+* **Anmol Saluja**
+* **Rishit Sansanwal**
+
